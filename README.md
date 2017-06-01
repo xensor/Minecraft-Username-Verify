@@ -36,8 +36,7 @@ What does this do?
 This allows you to verify minecraft accounts.  
 
 ## Screenshots ##
-
-
+![Minecraft Admin](https://box.everhelper.me/attachment/945309/ad10e51d-6828-4832-bf72-e493003daaeb/817279-ZJ6rWY7aulckNscb/screen.png 'Minecraft Admin Panel')
 
 ## Changelog ##
 
